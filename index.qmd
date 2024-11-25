@@ -1,5 +1,5 @@
 ---
-title: "MOOC Python: De explorador de datos a analista"
+title: "Python: De explorador de datos a analista"
 subtitle: MOOC
 lang: es
 
