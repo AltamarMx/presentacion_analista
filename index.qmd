@@ -14,6 +14,11 @@ format:
     # footer: 20ma. Semana Académica de Actualización y Desarrollo
 ---
 
+## Instrucciones de uso
+
+- presiona f para irte a modo pantalla completa
+- navega con las flechas 
+
 ## Diapositiva 1  
 
 hola mundo
