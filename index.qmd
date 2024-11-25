@@ -1,0 +1,26 @@
+---
+title: "MOOC Python: De explorador de datos a analista"
+subtitle: MOOC
+lang: es
+
+author:
+  name: Guillermo Barrios del Valle
+  email: gbv@ier.unam.mx
+  afiliation: Instituto de Energías Renovables, UNAM
+format: 
+  revealjs:
+    slide-number: c/t  
+    touch: true
+    # footer: 20ma. Semana Académica de Actualización y Desarrollo
+---
+
+## Diapositiva 1  
+
+hola mundo
+
+## Diapositiva 2
+```python
+import this
+```
+
+
