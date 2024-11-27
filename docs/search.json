@@ -1,37 +1,58 @@
 [
   {
-    "objectID": "index.html#diapositiva-1-título-y-presentación-del-curso",
-    "href": "index.html#diapositiva-1-título-y-presentación-del-curso",
+    "objectID": "index.html#scanme",
+    "href": "index.html#scanme",
     "title": "Python",
-    "section": "Diapositiva 1: Título y Presentación del Curso",
-    "text": "Diapositiva 1: Título y Presentación del Curso\nPython: De explorador de datos a analista\nIntroducción al curso que guía a los participantes desde el nivel de explorador de datos hasta convertirse en analistas expertos utilizando Python."
+    "section": "ScanMe!",
+    "text": "ScanMe!\n\n\n\n\n Compartir y colaborar, principios fundamentales que nos llevarán a ser analistas de datos con Python."
   },
   {
-    "objectID": "index.html#diapositiva-2-objetivos-de-aprendizaje",
-    "href": "index.html#diapositiva-2-objetivos-de-aprendizaje",
+    "objectID": "index.html#section",
+    "href": "index.html#section",
     "title": "Python",
-    "section": "Diapositiva 2: Objetivos de Aprendizaje",
-    "text": "Diapositiva 2: Objetivos de Aprendizaje\nObjetivo principal:\nDesarrollar habilidades avanzadas en Python para el análisis de datos.\nObjetivos específicos:\n\nImplementar prácticas avanzadas de instalación y configuración de Python.\nRealizar análisis exploratorio de datos utilizando herramientas avanzadas.\nManejar y procesar datos con técnicas avanzadas de Pandas.\nAplicar nuevas herramientas en la ciencia de datos para mejorar el análisis y la presentación de resultados."
+    "section": "",
+    "text": "“En la era de la digitalización, un lenguaje de programación [Python] es la llave que nos permite transformar datos para tomar decisiones informadas.”"
   },
   {
-    "objectID": "index.html#diapositiva-3-estructura-del-curso",
-    "href": "index.html#diapositiva-3-estructura-del-curso",
+    "objectID": "index.html#objetivo",
+    "href": "index.html#objetivo",
     "title": "Python",
-    "section": "Diapositiva 3: Estructura del Curso",
-    "text": "Diapositiva 3: Estructura del Curso\nSemana 1: Instalación y Prácticas Avanzadas\n\nInstalación de Python y configuración del entorno de trabajo.\nIntroducción a PowerShell y entornos virtuales.\nDesarrollo de paquetes en Python y adopción de buenas prácticas de programación.\n\nSemana 2: Análisis Exploratorio de Datos Avanzado\n\nUso de Matplotlib para visualizaciones avanzadas.\nIntroducción a herramientas como Plotly, Bokeh y Altair para gráficos interactivos.\n\nSemana 3: Pandas Avanzado\n\nTécnicas avanzadas de manipulación de datos con Pandas.\nUso de funciones como groupby, pivot_table y manejo de datos faltantes.\n\nSemana 4: Nuevas Herramientas en la Ciencia de Datos\n\nEjecución de libretas desde la terminal y conversión a scripts.\nIntroducción a Quarto para la generación de reportes y presentaciones.\nUso de Shiny para aplicaciones interactivas."
+    "section": "Objetivo",
+    "text": "Objetivo\nDesarrollar habilidades avanzadas en Python para el análisis de datos.\nObjetivos específicos:\n\nPrácticas avanzadas de instalación y configuración de Python.\nEDA utilizando herramientas avanzadas.\nManejo y procesamiento avanzado de datos con Pandas.\nConocer y aplicar nuevas herramientas en la ciencia de datos."
   },
   {
-    "objectID": "index.html#diapositiva-4-proyecto-final-y-recursos-adicionales",
-    "href": "index.html#diapositiva-4-proyecto-final-y-recursos-adicionales",
+    "objectID": "index.html#estructura-del-curso",
+    "href": "index.html#estructura-del-curso",
     "title": "Python",
-    "section": "Diapositiva 4: Proyecto Final y Recursos Adicionales",
-    "text": "Diapositiva 4: Proyecto Final y Recursos Adicionales\nProyecto Final:\nAplicación práctica de los conocimientos adquiridos en un proyecto integrador.\nRecursos Adicionales:\n\nEnlaces a materiales complementarios y lecturas recomendadas.\nInformación sobre comunidades y foros para continuar el aprendizaje."
+    "section": "Estructura del Curso",
+    "text": "Estructura del Curso\n\nSemana 1: Instalación y prácticas avanzadas.\nSemana 2: Análisis exploratorio de datos avanzado.\nSemana 3: Pandas avanzado.\nSemana 4: Nuevas herramientas en la ciencia de datos.\n\nContenido del curso en https://altamarmx.github.io/analista/\n\n\nInstalación y Prácticas Avanzadas\n\n\nInstalación de Python y configuración del entorno de trabajo.\nIntroducción a PowerShell y entornos virtuales.\nDesarrollo de paquetes en Python y adopción de buenas prácticas de programación.\n\n\nAnálisis Exploratorio de Datos Avanzado\n\n\nUso de Matplotlib para visualizaciones avanzadas.\nIntroducción a herramientas como Plotly, Bokeh y Altair para gráficos interactivos.\n\n\nPandas Avanzado\n\n\nTécnicas avanzadas de manipulación de datos con Pandas.\nUso de funciones como groupby, pivot_table y manejo de datos faltantes.\n\n\nNuevas Herramientas en la Ciencia de Datos\n\n\nEjecución de libretas desde la terminal y conversión a scripts.\nIntroducción a Quarto para la generación de reportes y presentaciones.\nUso de Shiny para aplicaciones interactivas."
   },
   {
-    "objectID": "index.html#diapositiva-5-invitación-a-inscribirse",
-    "href": "index.html#diapositiva-5-invitación-a-inscribirse",
+    "objectID": "index.html#material-evaluaciones-y-proyecto-final",
+    "href": "index.html#material-evaluaciones-y-proyecto-final",
     "title": "Python",
-    "section": "Diapositiva 5: Invitación a Inscribirse",
-    "text": "Diapositiva 5: Invitación a Inscribirse\nÚnete a nosotros en este viaje para convertirte en un analista de datos experto con Python.\n¡Inscríbete ahora y lleva tus habilidades al siguiente nivel!\nInformación de contacto:\n[Detalles sobre cómo inscribirse y dónde encontrar más información sobre el curso.]"
+    "section": "Material, Evaluaciones y proyecto final",
+    "text": "Material, Evaluaciones y proyecto final\n\n\n\nDatos y notas del curso aquí\nEjercicios con datos diseñados para el curso\nCuatro evaluaciones calificadas automáticamente\nProyecto final"
+  },
+  {
+    "objectID": "index.html#pe-python-de-cero-a-analista",
+    "href": "index.html#pe-python-de-cero-a-analista",
+    "title": "Python",
+    "section": "PE Python: de cero a analista",
+    "text": "PE Python: de cero a analista\n\nPE Python: de cero a analista"
+  },
+  {
+    "objectID": "index.html#agradecimientos",
+    "href": "index.html#agradecimientos",
+    "title": "Python",
+    "section": "Agradecimientos",
+    "text": "Agradecimientos\n\n\n\n\n\n\n\n\n\n\nCeleste Morales\n\n\n\n\n\n\n\nDiego Canul\n\n\n\n\n\n\n\nGrecia Suárez\n\n\n\n\n\n\n\nKevin Alquicira\n\n\n\n\n\n\nGuadalupe Vadillo, Adrian Sarmiento, Vicente Hinojosa, Andrea Martínez, Alejandra Ramos, Alejandra Morgado, Elith Ponce, Jackeline Bucio, Omar Terrazas, Mario Cano, Alonso Yescas, Yessica Acevedo, Gabriela Álvarez, Nazli Alcántara, JoséRra Hernández, Andrea Duque, Demián Bazán, Juan de Dios, Max Valdez, IER, UNAM,"
+  },
+  {
+    "objectID": "index.html#scanme-1",
+    "href": "index.html#scanme-1",
+    "title": "Python",
+    "section": "ScanMe!",
+    "text": "ScanMe!\n\n\n\n\n Compartir y colaborar, principios fundamentales que nos llevarán a ser analistas de datos con Python."
   }
 ]
