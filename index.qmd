@@ -1,6 +1,6 @@
 ---
-title: "Python: De explorador de datos a analista"
-subtitle: MOOC
+title: Python
+subtitle: De explorador de datos a analista
 lang: es
 
 author:
@@ -11,21 +11,70 @@ format:
   revealjs:
     slide-number: c/t  
     touch: true
-    # footer: 20ma. Semana Académica de Actualización y Desarrollo
 ---
 
-## Instrucciones de uso
-
-- presiona f para irte a modo pantalla completa
-- navega con las flechas 
-
-## Diapositiva 1  
-
-hola mundo
-
-## Diapositiva 2
-```python
-import this
-```
 
 
+## Diapositiva 1: Título y Presentación del Curso
+
+**Python: De explorador de datos a analista**
+
+Introducción al curso que guía a los participantes desde el nivel de explorador de datos hasta convertirse en analistas expertos utilizando Python.
+
+## Diapositiva 2: Objetivos de Aprendizaje
+
+**Objetivo principal:**
+
+Desarrollar habilidades avanzadas en Python para el análisis de datos.
+
+**Objetivos específicos:**
+
+- Implementar prácticas avanzadas de instalación y configuración de Python.
+- Realizar análisis exploratorio de datos utilizando herramientas avanzadas.
+- Manejar y procesar datos con técnicas avanzadas de Pandas.
+- Aplicar nuevas herramientas en la ciencia de datos para mejorar el análisis y la presentación de resultados.
+
+## Diapositiva 3: Estructura del Curso
+
+**Semana 1: Instalación y Prácticas Avanzadas**
+
+- Instalación de Python y configuración del entorno de trabajo.
+- Introducción a PowerShell y entornos virtuales.
+- Desarrollo de paquetes en Python y adopción de buenas prácticas de programación.
+
+**Semana 2: Análisis Exploratorio de Datos Avanzado**
+
+- Uso de Matplotlib para visualizaciones avanzadas.
+- Introducción a herramientas como Plotly, Bokeh y Altair para gráficos interactivos.
+
+**Semana 3: Pandas Avanzado**
+
+- Técnicas avanzadas de manipulación de datos con Pandas.
+- Uso de funciones como `groupby`, `pivot_table` y manejo de datos faltantes.
+
+**Semana 4: Nuevas Herramientas en la Ciencia de Datos**
+
+- Ejecución de libretas desde la terminal y conversión a scripts.
+- Introducción a Quarto para la generación de reportes y presentaciones.
+- Uso de Shiny para aplicaciones interactivas.
+
+## Diapositiva 4: Proyecto Final y Recursos Adicionales
+
+**Proyecto Final:**
+
+Aplicación práctica de los conocimientos adquiridos en un proyecto integrador.
+
+**Recursos Adicionales:**
+
+- Enlaces a materiales complementarios y lecturas recomendadas.
+- Información sobre comunidades y foros para continuar el aprendizaje.
+
+## Diapositiva 5: Invitación a Inscribirse
+
+**Únete a nosotros en este viaje para convertirte en un analista de datos experto con Python.**
+
+¡Inscríbete ahora y lleva tus habilidades al siguiente nivel!
+
+**Información de contacto:**
+
+[Detalles sobre cómo inscribirse y dónde encontrar más información sobre el curso.]
