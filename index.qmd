@@ -43,12 +43,12 @@ title-slide-attributes:
 <br>
 <br>
 
-"En la era de la digitalización, un lenguaje de programación  <span style="color: red;">[Python]</span> es la llave que nos permite transformar datos para tomar decisiones informadas." 
+"En la era de la digitalización, un lenguaje de programación  <span style="color: red;">[Python]</span> es la herramienta que nos permite transformar datos en información para tomar decisiones." 
 
 ## Objetivo
 
 
-Desarrollar habilidades avanzadas en Python para el análisis de datos.
+Desarrollar habilidades de analista en Python para el análisis de datos.
 
 **Objetivos específicos:**
 
@@ -93,7 +93,7 @@ Contenido del curso en [https://altamarmx.github.io/analista/](https://altamarmx
   - Uso de Shiny para aplicaciones interactivas.
 :::
 
-## Material, Evaluaciones y proyecto final
+## Material, evaluaciones y proyecto final
 
 ::: {.columns}
 ::: {.column width="40%"}
@@ -135,6 +135,7 @@ Contenido del curso en [https://altamarmx.github.io/analista/](https://altamarmx
 
 ::: footer
 Guadalupe Vadillo, 
+Anabel de la Rosa,
 Adrian Sarmiento,
 Vicente Hinojosa,
 Andrea Martínez,
